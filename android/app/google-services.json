@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752888823655",
+    "project_id": "lipz-9189b",
+    "storage_bucket": "lipz-9189b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752888823655:android:e9c1f9a1ff426bd220b9c2",
+        "android_client_info": {
+          "package_name": "com.sibylsystems.lipz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752888823655-6dqn6mdhhtocqbdri3u4c0a61qcl2sue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMkr05XYKv5NZD1R515wkyA-RZ7ANcoqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752888823655-6dqn6mdhhtocqbdri3u4c0a61qcl2sue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
