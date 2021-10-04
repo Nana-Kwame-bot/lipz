@@ -12,7 +12,6 @@ class Calories extends StatelessWidget {
   final dynamic productDetails;
   @override
   Widget build(BuildContext context) {
-    // var now = new ;
     var _formatter = DateFormat('EEE, dd-MM-yyyy');
     String _formatted = _formatter.format(
       DateTime.now(),
